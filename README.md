@@ -1,4 +1,7 @@
 # Augmented-AI-Workflow--Data Analysis (Research-paper)
+
+<img width="640" alt="opening image AI" src="https://user-images.githubusercontent.com/79339159/109709695-ca8e3800-7b6a-11eb-8564-34ac335b3f60.png">
+
 As with any other story, the journey of data analysis seems to have come a long way since its inception. As you surf through its history, the BI has moved from rigid, IT owned systems to more flexible, business-oriented tools that has not only enabled a more business-facing Data Analyst mindset but has also added a flood of pretty, easy filters ,drill downs and consolidations to help. What exactly is still a limitation are its static dashboards.
 
 Today — with the rise of cloud-native data warehouses and advancements in scalable inference methods — we’re at the cusp of a new phase that can not only afford better, faster processing of data, but also lets operational data analysts impact business decisions like never before. I call this phase Data Analyst 3.0. 
