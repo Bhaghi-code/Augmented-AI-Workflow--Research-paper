@@ -32,7 +32,7 @@ Data Diversity: The traditional procedure of cherry-picking dimensions leads to 
 Algorithmic developments, Sisu: Making use of proactive analytics in scalable inference methods in tools like Sisu, Analyst can leverage real time structured data. Instead of relying on descriptive dashboards and mining for insights from big tables, Sisu continuously assesses incoming information to help answer more difficult business questions like company strategy, market condition, patient safety.
 
 
-
+![Augmneted Ai Image](https://user-images.githubusercontent.com/79339159/109707328-08d62800-7b68-11eb-89d9-de4ea6560e34.png)
 
 
 
